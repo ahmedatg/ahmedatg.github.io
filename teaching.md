@@ -1,89 +1,68 @@
 ---
+layout: page
 title: Teaching
-nav_order: 5
-permalink: /teaching/
 ---
 
 # Teaching
 
-I am committed to providing high-quality engineering education that combines strong theoretical foundations with practical applications, research integration, and industry engagement.
+I am involved in teaching, curriculum development, academic leadership, and supervision in Industrial Engineering and Industrial Management programs.
 
----
-
-# Teaching Philosophy
-
-My teaching philosophy emphasizes:
-
-- Student-centered learning
-- Outcome-Based Education (OBE)
-- Problem-solving and critical thinking
-- Project-based learning
-- Integration of research into teaching
-- Industry-oriented engineering education
-- Lifelong learning
-
----
-
-# Areas of Teaching
-
-## Undergraduate Courses
+## Teaching Interests
 
 - Industrial Engineering
-- Production Planning and Control
-- Operations Research
-- Work Study
-- Ergonomics and Human Factors
-- Engineering Economy
+- Industrial Management
 - Manufacturing Systems
-- Quality Engineering
-- Facilities Planning
+- Operations Research
+- Optimization Techniques
 - System Modeling and Simulation
-
----
-
-## Graduate Courses
-
-- Industrial Systems Optimization
-- Statistics for Industrial Applications
-- Advanced Manufacturing Systems
-- Research Methodology
-- Human–Robot Collaboration
-- Smart Manufacturing
-- Industry 5.0 Technologies
-
----
-
-# Student Supervision
-
-I supervise undergraduate and graduate students in the following areas:
-
-- Human–Robot Collaboration
-- Artificial Intelligence
-- Smart Manufacturing
+- Quality Engineering
+- Production and Operations Management
 - Human Factors Engineering
-- Production Systems
-- Optimization
-- Simulation
+- Industry 4.0 and Industry 5.0 Technologies
 
----
+## Courses Taught
 
-# Teaching Interests
+### Undergraduate Courses
 
-- Engineering Education
-- Digital Learning
-- Active Learning
-- Hybrid Teaching
-- Laboratory-Based Instruction
-- Curriculum Development
+- Introduction to Industrial Engineering
+- Production Systems Engineering
+- Work Study and Ergonomics
+- Quality Management
+- Operations Research
+- Manufacturing Systems
+- Engineering Economy
 
----
+### Graduate Courses
 
-# Curriculum Development
+- Industrial Systems Optimization and Simulation
+- Statistics for Industrial Applications
+- Advanced Production and Operations Management
+- Industrial Management Systems
+- Research Methods in Engineering
 
-I actively participate in:
+## Curriculum Development Activities
 
-- Curriculum revision
-- Program accreditation
-- Outcome-Based Education implementation
-- Program Learning Outcome (PLO) development
-- Continuous Quality Improvement
+I have contributed to:
+
+- Industrial Engineering curriculum revision
+- MSc Industrial Engineering curriculum development
+- MSc Industrial Management hybrid program development
+- Program learning outcomes (PLO) development
+- Accreditation preparation and quality improvement activities
+
+## Student Supervision
+
+I supervise undergraduate and graduate students in research areas including:
+
+- Human-Robot Collaboration
+- Smart Manufacturing
+- Industrial Optimization
+- Simulation and Modeling
+- Quality and Productivity Improvement
+
+## Academic Service
+
+- Chair Holder, Industrial Design and Management Science (IDMS) Chair
+- Assistant Professor, Industrial Engineering
+- Participation in accreditation and quality assurance activities
+- Research and innovation leadership
