@@ -30,4 +30,9 @@ header_pages:
   - projects.md
   - contact.md
   - cv.md
+author:
+  name: "Dr. Ahmed Abide Tadesse"
+  email: "your_email@bdu.edu.et"
+
+github_username: your_github_username
   
