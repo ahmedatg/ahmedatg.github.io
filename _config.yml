@@ -1,4 +1,24 @@
 title: "Dr. Ahmed Abide Tadesse"
-description: "Academic website"
-theme: minima
-markdown: kramdown
+description: "Assistant Professor of Industrial Engineering"
+
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+
+color_scheme: light
+
+search_enabled: true
+
+heading_anchors: true
+
+footer_content: "© 2026 Dr. Ahmed Abide Tadesse | Bahir Dar University"
+
+url: "https://ahmedatg.github.io"
+
+aux_links:
+  Google Scholar: "https://scholar.google.com/citations?user=rbJMDa0AAAAJ&hl=en&oi=ao"
+  ORCID: "https://orcid.org/0000-0002-5654-8898"
+  ResearchGate: "https://www.researchgate.net/profile/Ahmed-Tadesse"
+  LinkedIn: "https://www.linkedin.com/in/ahmed-abide"
+  GitHub: "https://github.com/ahmedatg"
