@@ -1,0 +1,13 @@
+- year: 2025
+  type: Journal
+  title: "Human–Robot Collaboration Empowered by Hidden Semi-Markov Models and Augmented Reality"
+  authors: "Ahmed Abide Tadesse, et al."
+  journal: "Journal Name"
+  status: Published
+
+- year: 2024
+  type: Conference
+  title: "Task Allocation Between Human and Robot Using Fuzzy Logic"
+  authors: "Ahmed Abide Tadesse, et al."
+  conference: "Conference Name"
+  status: Published
