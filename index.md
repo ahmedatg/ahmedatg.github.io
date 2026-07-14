@@ -65,3 +65,31 @@ Modeling and optimization of complex industrial systems.
 ## Research Vision
 
 To develop intelligent and adaptive industrial systems where humans and machines collaborate effectively to achieve sustainable industrial transformation.
+---
+
+## Academic Profiles
+
+You can find my research activities and publications through:
+
+- **Google Scholar:**  
+https://scholar.google.com/citations?user=rbJMDa0AAAAJ&hl=en
+
+- **ORCID:**  
+(Add your ORCID link)
+
+- **ResearchGate:**  
+(Add your ResearchGate link)
+
+- **LinkedIn:**  
+(Add your LinkedIn link)
+
+---
+
+## Contact
+
+For research collaboration, academic exchange, and professional inquiries:
+
+**Dr. Ahmed Abide Tadesse**  
+Assistant Professor of Industrial Engineering  
+Bahir Dar Institute of Technology  
+Bahir Dar University, Ethiopia
