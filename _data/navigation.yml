@@ -1,0 +1,33 @@
+main:
+  - title: Home
+    url: /
+
+  - title: About
+    url: /about/
+
+  - title: Research
+    url: /research/
+
+  - title: Publications
+    url: /publications/
+
+  - title: Teaching
+    url: /teaching/
+
+  - title: Projects
+    url: /projects/
+
+  - title: Professional Services
+    url: /service/
+
+  - title: Students
+    url: /students/
+
+  - title: News
+    url: /news/
+
+  - title: CV
+    url: /cv/
+
+  - title: Contact
+    url: /contact/
