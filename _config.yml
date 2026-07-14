@@ -5,6 +5,8 @@ remote_theme: just-the-docs/just-the-docs
 
 plugins:
   - jekyll-remote-theme
+sass:
+  style: compressed
 
 color_scheme: light
 
