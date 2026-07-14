@@ -1,57 +1,74 @@
 ---
+layout: page
 title: Projects
-nav_order: 6
-permalink: /projects/
 ---
 
-# Projects
+# Research Projects
 
-My research and professional activities focus on solving industrial challenges through intelligent engineering solutions.
-
----
-
-# Current Research Projects
-
-## Human–Robot Collaboration
-
-Development of adaptive collaboration models using Hidden Semi-Markov Models and Augmented Reality.
+My research projects focus on developing intelligent, human-centered, and sustainable manufacturing systems through the integration of robotics, artificial intelligence, simulation, and human factors engineering.
 
 ---
 
-## Smart Manufacturing
+## Human-Robot Collaboration for Smart Manufacturing
 
-AI-enabled manufacturing systems for Industry 5.0.
+### Multi-modal Empowerment for Human-Robot Collaboration Teams
 
----
+This project investigates adaptive collaboration between humans and robots by integrating multimodal human state recognition, intelligent modeling, and augmented reality technologies.
 
-## Human Activity Recognition
+**Technologies and methods:**
 
-Computer vision and deep learning for collaborative assembly.
-
----
-
-## Digital Manufacturing
-
-Simulation-based optimization of manufacturing systems.
+- Human-Robot Collaboration (HRC)
+- Hidden Semi-Markov Models (HSMM)
+- Augmented Reality (AR)
+- Human performance evaluation
+- Collaborative assembly systems
 
 ---
 
-## Engineering Education
+## Augmented Reality-Based Collaborative Assembly System
 
-Curriculum modernization and accreditation activities.
+Development of AR-supported manufacturing environments to improve human decision-making, learning, and interaction with robotic systems.
 
----
+**Tools:**
 
-# Industrial Consulting
-
-- ISO Management Systems
-- Industrial Engineering Consulting
-- Productivity Improvement
-- Manufacturing System Design
-- Quality Improvement
+- Microsoft HoloLens 2
+- RoboDK
+- Computer vision algorithms
+- Human factors evaluation methods
 
 ---
 
-# Technology Transfer
+## Intelligent Manufacturing and Industry 5.0
 
-Promoting research commercialization and industry collaboration.
+Research on human-centric manufacturing systems that combine:
+
+- Artificial Intelligence
+- Robotics
+- Digital transformation
+- Sustainable production
+- Human-machine cooperation
+
+---
+
+## System Modeling and Simulation
+
+Development of simulation approaches for analyzing and optimizing complex industrial systems.
+
+**Research approaches:**
+
+- Discrete-event simulation
+- System modeling
+- Optimization techniques
+- Data-driven decision making
+
+---
+
+## Future Research Directions
+
+Future work includes:
+
+- Adaptive collaborative robots
+- AI-assisted manufacturing decision systems
+- Digital twins for manufacturing
+- Sustainable Industry 5.0 solutions
+- Human-centered automation
