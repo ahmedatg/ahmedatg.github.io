@@ -22,3 +22,9 @@ aux_links:
   ResearchGate: "https://www.researchgate.net/profile/Ahmed-Tadesse"
   LinkedIn: "https://www.linkedin.com/in/ahmed-abide"
   GitHub: "https://github.com/ahmedatg"
+header_pages:
+  - about.md
+  - research.md
+  - publications.md
+  - teaching.md
+  - cv.md
