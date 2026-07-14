@@ -3,49 +3,65 @@ layout: home
 title: Home
 ---
 
+<div align="center">
+
 # Dr. Ahmed Abide Tadesse
 
-<img src="/assets/images/profile.jpg.png" width="180" alt="Dr. Ahmed Abide Tadesse">
+<img src="/assets/images/Profile.png.jpg" width="200" alt="Dr. Ahmed Abide Tadesse">
 
 ## Assistant Professor of Industrial Engineering
 
-Chair Holder, Industrial Design and Management Science (IDMS) Chair  
+**Chair Holder, Industrial Design and Management Science (IDMS) Chair**  
 Bahir Dar Institute of Technology (BiT)  
 Bahir Dar University, Ethiopia
 
----
-
-## Research Focus
-
-My research focuses on developing human-centered intelligent manufacturing systems through the integration of:
-
-- Human-Robot Collaboration
-- Industry 5.0
-- Smart Manufacturing
-- Augmented Reality
-- Artificial Intelligence
-- Human Factors Engineering
-- System Modeling and Simulation
+</div>
 
 ---
 
-## Academic Profile
+## About Me
 
-I am an Assistant Professor of Industrial Engineering with research experience in advanced manufacturing systems, robotics, and human-centered technologies.
+I am an Assistant Professor of Industrial Engineering working at the intersection of human intelligence, artificial intelligence, and advanced manufacturing technologies.
 
-My work aims to bridge human intelligence and machine intelligence to create adaptive, safe, and productive industrial systems.
-
----
-
-## Quick Links
-
-- [Research](/research)
-- [Publications](/publications)
-- [Teaching](/teaching)
-- [Curriculum Vitae](/cv)
+My research focuses on developing **human-centered intelligent manufacturing systems** that enhance productivity, safety, adaptability, and sustainability.
 
 ---
 
-## Contact
+## Research Areas
 
-Email: Add your institutional email here
+🔹 **Human-Robot Collaboration (HRC)**  
+Adaptive collaboration between humans and robots in industrial environments.
+
+🔹 **Industry 5.0 and Smart Manufacturing**  
+Human-centric, sustainable, and resilient manufacturing systems.
+
+🔹 **Augmented Reality Applications**  
+AR-based support systems for collaborative assembly and industrial training.
+
+🔹 **Human Factors Engineering**  
+Improving human performance, ergonomics, and interaction with intelligent systems.
+
+🔹 **System Modeling and Simulation**  
+Modeling and optimization of complex industrial systems.
+
+---
+
+## Academic Highlights
+
+- PhD in Industrial Management — National Taiwan University of Science and Technology (NTUST)
+- PhD in Industrial and Systems Engineering — Bahir Dar University
+- Assistant Professor of Industrial Engineering
+- Chair Holder, Industrial Design and Management Science (IDMS) Chair
+- Researcher in Human-Robot Collaboration and Industry 5.0
+
+---
+
+## Explore My Work
+
+[Research](/research) | [Publications](/publications) | [Projects](/projects) | [CV](/cv)
+
+---
+
+## Research Vision
+
+To develop intelligent and adaptive industrial systems where humans and machines collaborate effectively to achieve sustainable industrial transformation.
