@@ -1,6 +1,9 @@
 ---
-layout: page
 title: About
+nav_order: 2
+permalink: /about/
 ---
 
-Content coming soon.
+# About Me
+
+This page will present my biography, education, professional experience, leadership, awards, and academic philosophy.
