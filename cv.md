@@ -70,7 +70,7 @@ Industrial Design and Management Science (IDMS) Chair
 
 A complete academic CV will be available here:
 
-[Download CV (PDF)](assets/files/Ahmed_Abide_CV.pdf.pdf)
+[Download CV (PDF)](assets/files/Ahmed_Abide_CV.pdf)
 
 ---
 
