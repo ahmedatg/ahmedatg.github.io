@@ -1,132 +1,48 @@
 ---
+layout: page
 title: Research
-nav_order: 3
-permalink: /research/
 ---
 
 # Research
 
-My research integrates **Industrial Engineering**, **Artificial Intelligence**, **Human–Robot Collaboration**, and **Smart Manufacturing** to create intelligent, adaptive, and sustainable production systems. My goal is to bridge engineering theory with practical industrial applications that improve productivity, safety, and human well-being.
+My research focuses on developing human-centered intelligent manufacturing systems by integrating human factors, robotics, artificial intelligence, and emerging Industry 5.0 technologies.
 
----
+## Research Areas
 
-# Research Vision
+### Human-Robot Collaboration (HRC)
 
-To advance **Industry 5.0** through intelligent manufacturing systems that enable effective collaboration between humans and machines using artificial intelligence, robotics, and digital technologies.
+My research investigates effective collaboration between humans and robots in industrial environments, focusing on adaptive interaction, task allocation, human empowerment, and collaborative performance improvement.
 
----
+### Industry 5.0 and Smart Manufacturing
 
-# Research Themes
+I study the transition toward human-centric, sustainable, and resilient manufacturing systems through the integration of advanced digital technologies.
 
-## 🤖 Human–Robot Collaboration (HRC)
+### Augmented Reality (AR) for Manufacturing
 
-Human–Robot Collaboration is my primary research area.
+Research on AR-based support systems for collaborative assembly, training, and human decision support using immersive technologies.
 
-Current topics include:
+### Human Factors Engineering
 
-- Human intention recognition
+Investigation of human performance, workload assessment, ergonomics, and user experience in advanced manufacturing environments.
+
+### System Modeling and Simulation
+
+Development of simulation-based approaches for analyzing, optimizing, and predicting the behavior of complex industrial systems.
+
+### Intelligent Manufacturing and Robotics
+
+Application of artificial intelligence, machine learning, computer vision, and robotic technologies for smart production systems.
+
+## Research Methods and Tools
+
 - Hidden Semi-Markov Models (HSMM)
-- Collaborative assembly systems
-- Adaptive task allocation
-- Human-aware robotics
-- Safe collaboration
-- Assembly optimization
+- Artificial Intelligence and Machine Learning
+- Computer Vision (YOLOv5, MediaPipe)
+- Augmented Reality (Microsoft HoloLens 2)
+- Robotic Simulation (RoboDK, CoppeliaSim, GazeboSim)
+- Human Performance Evaluation (NASA-TLX)
+- Statistical Analysis (ANOVA, Tukey HSD)
 
-**Representative technologies**
+## Research Vision
 
-- HoloLens 2
-- Computer Vision
-- MediaPipe
-- YOLO
-- RoboDK
-- ROS
-
----
-
-## 🧠 Artificial Intelligence for Manufacturing
-
-Applying artificial intelligence to improve manufacturing decision-making and automation.
-
-Research includes:
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Intelligent Decision Support
-- Industrial Analytics
-
----
-
-## 🏭 Smart Manufacturing
-
-Research on next-generation manufacturing systems.
-
-Topics include:
-
-- Digital Factory
-- Intelligent Production
-- Cyber-Physical Systems
-- Manufacturing Analytics
-- Flexible Manufacturing Systems
-
----
-
-## ⚙ Industry 4.0 & Industry 5.0
-
-Research focuses on integrating:
-
-- Artificial Intelligence
-- Robotics
-- Internet of Things
-- Human-Centered Manufacturing
-- Sustainable Manufacturing
-
----
-
-## 👨 Human Factors Engineering
-
-Research includes:
-
-- NASA-TLX
-- Cognitive Workload
-- Ergonomic Assessment
-- Human Performance
-- Work Measurement
-
----
-
-## 📊 System Modeling & Simulation
-
-Research areas include:
-
-- Manufacturing Simulation
-- Discrete Event Simulation
-- Optimization
-- Digital Twins
-- Production Planning
-
----
-
-# Current Research Projects
-
-- Human–Robot Collaboration using Hidden Semi-Markov Models
-- Augmented Reality–Based Collaborative Assembly
-- AI-Based Human Activity Recognition
-- Intelligent Manufacturing Systems
-- Industry 5.0 Framework Development
-
----
-
-# Research Collaboration
-
-I welcome collaboration with researchers, universities, research institutes, and industry partners in the areas of:
-
-- Human–Robot Collaboration
-- Artificial Intelligence
-- Smart Manufacturing
-- Robotics
-- Human Factors Engineering
-- Industry 5.0
-- Digital Manufacturing
-
-For collaboration opportunities, please visit the **Contact** page.
+To develop intelligent, adaptive, and human-centered manufacturing systems that enhance productivity, safety, and sustainability in Industry 5.0 environments.
