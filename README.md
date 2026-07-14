@@ -1,2 +1,2 @@
-# ahmedatg.github.io
-Personal Academic Website
+# Ahmed Abide Academic Website
+Upload to GitHub Pages.
