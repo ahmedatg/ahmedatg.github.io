@@ -1,26 +1,51 @@
+---
+layout: home
+title: Home
+---
+
 # Dr. Ahmed Abide Tadesse
 
-### Assistant Professor of Industrial Engineering
+<img src="/assets/images/profile.png.jpg" width="180" alt="Dr. Ahmed Abide Tadesse">
 
-**Chair, Industrial Design and Management Science (IDMS)**
+## Assistant Professor of Industrial Engineering
 
-Faculty of Mechanical and Industrial Engineering  
-Bahir Dar Institute of Technology  
+Chair Holder, Industrial Design and Management Science (IDMS) Chair  
+Bahir Dar Institute of Technology (BiT)  
 Bahir Dar University, Ethiopia
 
 ---
 
-> **Engineering Intelligent Manufacturing Through Human-Centered Artificial Intelligence**
+## Research Focus
+
+My research focuses on developing human-centered intelligent manufacturing systems through the integration of:
+
+- Human-Robot Collaboration
+- Industry 5.0
+- Smart Manufacturing
+- Augmented Reality
+- Artificial Intelligence
+- Human Factors Engineering
+- System Modeling and Simulation
 
 ---
 
-![Dr. Ahmed Abide Tadesse](/assets/images/profile.jpg){: style="width:260px;border-radius:50%;border:5px solid #0B3D91;" }
-## Professional Profiles
+## Academic Profile
 
-- **Google Scholar:** https://scholar.google.com/citations?user=rbJMDa0AAAAJ&hl=en&oi=ao
-- **ORCID:** https://orcid.org/0000-0002-5654-8898
-- **ResearchGate:** https://www.researchgate.net/profile/Ahmed-Tadesse
-- **LinkedIn:** https://www.linkedin.com/in/ahmed-abide
-- **GitHub:** https://github.com/ahmedatg
+I am an Assistant Professor of Industrial Engineering with research experience in advanced manufacturing systems, robotics, and human-centered technologies.
 
-📄 **Download my CV:** [Ahmed_Abide_CV.pdf](/assets/documents/Ahmed_Abide_CV.pdf)
+My work aims to bridge human intelligence and machine intelligence to create adaptive, safe, and productive industrial systems.
+
+---
+
+## Quick Links
+
+- [Research](/research)
+- [Publications](/publications)
+- [Teaching](/teaching)
+- [Curriculum Vitae](/cv)
+
+---
+
+## Contact
+
+Email: Add your institutional email here
