@@ -18,7 +18,7 @@ Bahir Dar, Ethiopia
 
 ## Email
 
-Institutional Email: Add your university email here
+Institutional Email: ahmed.abide@bdu.edu.et 
 
 ---
 
