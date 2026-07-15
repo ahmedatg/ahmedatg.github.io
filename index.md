@@ -8,7 +8,7 @@ title: Home
 <div style="flex:1;min-width:250px;">
 
 # Dr. Ahmed Abide Tadesse
-
+<br>
 ### Assistant Professor of Industrial Engineering
 
 **Chair Holder, Industrial Design and Management Science (IDMS) Chair**
