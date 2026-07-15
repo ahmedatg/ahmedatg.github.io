@@ -35,7 +35,7 @@ Bahir Dar University, Ethiopia
 
 <div style="flex:0 0 260px;text-align:center;">
 
-<img src="/assets/images/profile.jpg.png"
+<img src="/assets/images/profile.jpg"
 width="240"
 style="border-radius:50%;box-shadow:0 6px 18px rgba(0,0,0,.2);">
 
