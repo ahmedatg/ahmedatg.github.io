@@ -5,13 +5,12 @@ title: Home
 
 <div align="center">
 
-# Dr. Ahmed Abide Tadesse
-< >
+<# Dr. Ahmed Abide Tadesse>
 
 <img src="/assets/images/profile.jpg.png" width="150" alt="Dr. Ahmed Abide Tadesse">
 
-< >
-## Assistant Professor of Industrial Engineering
+
+<## Assistant Professor of Industrial Engineering>
 
 **Chair Holder, Industrial Design and Management Science (IDMS) Chair**  
 Bahir Dar Institute of Technology (BiT)  
