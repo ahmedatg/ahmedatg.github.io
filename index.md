@@ -7,7 +7,9 @@ title: Home
 
 # Dr. Ahmed Abide Tadesse
 
-<img src="/assets/images/profile.jpg.png" width="200" alt="Dr. Ahmed Abide Tadesse">
+
+<img src="/assets/images/profile.jpg.png" width="150" alt="Dr. Ahmed Abide Tadesse">
+
 
 ## Assistant Professor of Industrial Engineering
 
