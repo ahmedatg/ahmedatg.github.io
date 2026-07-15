@@ -1,13 +1,15 @@
 title: "Dr. Ahmed Abide Tadesse"
-description: "Assistant Professor of Industrial Engineering"
+description: "Assistant Professor | Industrial Engineering | Human-Robot Collaboration"
 
 remote_theme: just-the-docs/just-the-docs
 
-plugins:
-  - jekyll-remote-theme
-sass:
-  style: compressed
+color_scheme: light
 
+aux_links:
+  "Google Scholar":
+    - "https://scholar.google.com"
+
+nav_enabled: true
 color_scheme: light
 
 search_enabled: true
