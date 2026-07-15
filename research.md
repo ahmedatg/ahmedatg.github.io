@@ -43,6 +43,46 @@ Application of artificial intelligence, machine learning, computer vision, and r
 - Human Performance Evaluation (NASA-TLX)
 - Statistical Analysis (ANOVA, Tukey HSD)
 
+---
+
+# Research Tools & Technical Expertise
+
+## Programming & Data Analysis
+- Python
+- MATLAB
+- R (Basic)
+- Statistical Analysis
+
+## Robotics & Automation
+- RoboDK
+- Microsoft HoloLens 2
+- Human–Robot Collaboration (HRC)
+- Collaborative Robotics
+
+## Artificial Intelligence & Computer Vision
+- YOLOv5
+- MediaPipe
+- Hidden Semi-Markov Models (HSMM)
+- Machine Learning for Manufacturing
+
+## Modeling & Simulation
+- System Modeling
+- Discrete-Event Simulation
+- Manufacturing System Simulation
+- Optimization Techniques
+
+## Human Factors & Ergonomics
+- NASA-TLX Workload Assessment
+- Ergonomic Evaluation
+- Human Performance Analysis
+- User-Centered System Design
+
+## Research Interests
+- Industry 5.0
+- Smart Manufacturing
+- Digital Transformation
+- Intelligent Production Systems
+- Sustainable Manufacturing
 ## Research Vision
 
 To develop intelligent, adaptive, and human-centered manufacturing systems that enhance productivity, safety, and sustainability in Industry 5.0 environments.
