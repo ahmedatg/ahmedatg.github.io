@@ -138,5 +138,22 @@ Let's collaborate on research and innovation.
 
 - Google Scholar
 - ORCID
+---
+
+## Let's Connect
+
+📧 **Email:** your.email@bdu.edu.et
+
+🎓 **Google Scholar:** https://scholar.google.com/citations?user=rbJMDa0AAAAJ&hl=en
+
+🆔 **ORCID:** Add your ORCID URL
+
+💼 **LinkedIn:** Add your LinkedIn URL
+
+🔬 **ResearchGate:** Add your ResearchGate URL
+
+---
+
+© 2026 Dr. Ahmed Abide Tadesse • Bahir Dar University
 - ResearchGate
 - LinkedIn
