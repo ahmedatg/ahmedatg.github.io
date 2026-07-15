@@ -1,0 +1,12 @@
+<link rel="icon" type="image/png" href="{{ '/assets/images/favicon.png' | relative_url }}">
+<link rel="apple-touch-icon" href="{{ '/assets/images/favicon.png' | relative_url }}">
+
+<meta name="author" content="Dr. Ahmed Abide Tadesse">
+<meta name="keywords" content="Industrial Engineering, Human-Robot Collaboration, Industry 5.0, Smart Manufacturing, Augmented Reality, Human Factors, Robotics, Ethiopia">
+
+<meta name="description" content="Official academic website of Dr. Ahmed Abide Tadesse, Assistant Professor of Industrial Engineering, Bahir Dar University.">
+
+<meta property="og:title" content="Dr. Ahmed Abide Tadesse">
+<meta property="og:description" content="Research in Human-Robot Collaboration, Industry 5.0, Smart Manufacturing and Intelligent Systems.">
+<meta property="og:type" content="website">
+<meta property="og:image" content="{{ '/assets/images/profile.jpg.png' | relative_url }}">
