@@ -10,7 +10,7 @@ title: Home
 # Dr. Ahmed Abide Tadesse
 <br>
 ### Assistant Professor of Industrial Engineering
-
+<br>
 **Chair Holder, Industrial Design and Management Science (IDMS) Chair**
 
 Bahir Dar Institute of Technology (BiT)  
