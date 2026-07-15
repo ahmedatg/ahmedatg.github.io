@@ -3,95 +3,92 @@ layout: home
 title: Home
 ---
 
-<div align="center">
+<div style="display:flex;flex-wrap:wrap;align-items:center;gap:30px;margin-top:20px;">
+
+<div style="flex:1;min-width:250px;">
 
 # Dr. Ahmed Abide Tadesse
-<br>
 
-<img src="/assets/images/profile.jpg.png" width="150" alt="Dr. Ahmed Abide Tadesse">
-<br>
+### Assistant Professor of Industrial Engineering
 
-## Assistant Professor of Industrial Engineering
+**Chair Holder, Industrial Design and Management Science (IDMS) Chair**
 
-**Chair Holder, Industrial Design and Management Science (IDMS) Chair**  
 Bahir Dar Institute of Technology (BiT)  
 Bahir Dar University, Ethiopia
+
+**Research Areas**
+
+- Human–Robot Collaboration
+- Industry 5.0
+- Smart Manufacturing
+- Augmented Reality
+- Human Factors Engineering
+- System Modeling & Simulation
+
+<a href="/cv/" style="background:#005792;color:white;padding:10px 20px;border-radius:6px;text-decoration:none;">Download CV</a>
+
+&nbsp;
+
+<a href="/contact/" style="border:2px solid #005792;padding:10px 20px;border-radius:6px;text-decoration:none;">Contact Me</a>
+
+</div>
+
+<div style="flex:0 0 260px;text-align:center;">
+
+<img src="/assets/images/Profile.png.jpg"
+width="240"
+style="border-radius:50%;box-shadow:0 6px 18px rgba(0,0,0,.2);">
+
+</div>
 
 </div>
 
 ---
 
-## About Me
+# Welcome
 
-I am an Assistant Professor of Industrial Engineering working at the intersection of human intelligence, artificial intelligence, and advanced manufacturing technologies.
+Welcome to my academic website.
 
-My research focuses on developing **human-centered intelligent manufacturing systems** that enhance productivity, safety, adaptability, and sustainability.
-
----
-
-## Research Areas
-
-🔹 **Human-Robot Collaboration (HRC)**  
-Adaptive collaboration between humans and robots in industrial environments.
-
-🔹 **Industry 5.0 and Smart Manufacturing**  
-Human-centric, sustainable, and resilient manufacturing systems.
-
-🔹 **Augmented Reality Applications**  
-AR-based support systems for collaborative assembly and industrial training.
-
-🔹 **Human Factors Engineering**  
-Improving human performance, ergonomics, and interaction with intelligent systems.
-
-🔹 **System Modeling and Simulation**  
-Modeling and optimization of complex industrial systems.
+I am an Assistant Professor of Industrial Engineering at Bahir Dar University. My research focuses on developing intelligent manufacturing systems through the integration of robotics, artificial intelligence, augmented reality, and human-centered engineering.
 
 ---
 
-## Academic Highlights
+# Featured Research
 
-- PhD in Industrial Management — National Taiwan University of Science and Technology (NTUST)
-- PhD in Industrial and Systems Engineering — Bahir Dar University
-- Assistant Professor of Industrial Engineering
-- Chair Holder, Industrial Design and Management Science (IDMS) Chair
-- Researcher in Human-Robot Collaboration and Industry 5.0
-
----
-
-## Explore My Work
-
-[Research](/research) | [Publications](/publications) | [Projects](/projects) | [CV](/cv)
+| Research Area | Focus |
+|---------------|-------|
+| Human–Robot Collaboration | Adaptive collaboration between humans and robots |
+| Industry 5.0 | Human-centric smart manufacturing |
+| Augmented Reality | Digital assistance for manufacturing |
+| Human Factors | Ergonomics and cognitive workload |
+| System Simulation | Modeling and optimization |
 
 ---
 
-## Research Vision
+# Quick Access
 
-To develop intelligent and adaptive industrial systems where humans and machines collaborate effectively to achieve sustainable industrial transformation.
----
-
-## Academic Profiles
-
-You can find my research activities and publications through:
-
-- **Google Scholar:**  
-https://scholar.google.com/citations?user=rbJMDa0AAAAJ&hl=en
-
-- **ORCID:**  
-(Add your ORCID link)
-
-- **ResearchGate:**  
-(Add your ResearchGate link)
-
-- **LinkedIn:**  
-(Add your LinkedIn link)
+- 📄 [Curriculum Vitae](/cv/)
+- 📚 [Publications](/publications/)
+- 🔬 [Research](/research/)
+- 🚀 [Projects](/projects/)
+- 👨‍🏫 [Teaching](/teaching/)
+- 📰 [News](/news/)
+- 📧 [Contact](/contact/)
 
 ---
 
-## Contact
+# Latest Updates
 
-For research collaboration, academic exchange, and professional inquiries:
+- Academic website launched.
+- Publications page updated.
+- Research portfolio expanded.
+- Current research focuses on Industry 5.0 and Human–Robot Collaboration.
 
-**Dr. Ahmed Abide Tadesse**  
-Assistant Professor of Industrial Engineering  
-Bahir Dar Institute of Technology  
-Bahir Dar University, Ethiopia
+---
+
+# Academic Profiles
+
+- Google Scholar
+- ORCID
+- ResearchGate
+- LinkedIn
