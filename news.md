@@ -7,7 +7,7 @@ title: News
 
 ## 2026
 
-### I am writing my reveiwe on HRC
+### I am writing my reveiwe on HRC by Dr Betsha's Recommendation
 
 ### Academic Website Launched
 
