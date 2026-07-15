@@ -6,6 +6,7 @@ title: News
 # News & Announcements
 
 ## 2026
+### I am writing my reviwe on HRC
 
 ### Academic Website Launched
 
