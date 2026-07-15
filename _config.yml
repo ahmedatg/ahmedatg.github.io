@@ -30,9 +30,11 @@ header_pages:
   - publications.md
   - teaching.md
   - projects.md
+  - service.md
   - news.md
   - contact.md
   - cv.md
+
 author:
   name: "Dr. Ahmed Abide Tadesse"
   email: "ahmed.abide@bdu.edu.et"
