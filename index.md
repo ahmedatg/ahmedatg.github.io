@@ -65,15 +65,63 @@ I am an Assistant Professor of Industrial Engineering at Bahir Dar University. M
 
 ---
 
-# Quick Access
+<div class="card-grid">
 
-- 📄 [Curriculum Vitae](/cv/)
-- 📚 [Publications](/publications/)
-- 🔬 [Research](/research/)
-- 🚀 [Projects](/projects/)
-- 👨‍🏫 [Teaching](/teaching/)
-- 📰 [News](/news/)
-- 📧 [Contact](/contact/)
+<div class="card">
+<h3>🔬 Research</h3>
+
+Research interests, expertise, laboratories and research vision.
+
+<a class="btn-primary" href="/research/">View</a>
+
+</div>
+
+<div class="card">
+<h3>📚 Publications</h3>
+
+Journal papers, conference proceedings and research outputs.
+
+<a class="btn-primary" href="/publications/">View</a>
+
+</div>
+
+<div class="card">
+<h3>🎓 Teaching</h3>
+
+Courses, supervision and curriculum development.
+
+<a class="btn-primary" href="/teaching/">View</a>
+
+</div>
+
+<div class="card">
+<h3>📄 Curriculum Vitae</h3>
+
+Download my latest academic CV.
+
+<a class="btn-primary" href="/cv/">Download</a>
+
+</div>
+
+<div class="card">
+<h3>🚀 Projects</h3>
+
+Current and completed research projects.
+
+<a class="btn-primary" href="/projects/">View</a>
+
+</div>
+
+<div class="card">
+<h3>📧 Contact</h3>
+
+Let's collaborate on research and innovation.
+
+<a class="btn-primary" href="/contact/">Contact</a>
+
+</div>
+
+</div>
 
 ---
 
