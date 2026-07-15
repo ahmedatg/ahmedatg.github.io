@@ -142,7 +142,7 @@ Let's collaborate on research and innovation.
 
 ## Let's Connect
 
-📧 **Email:** your.email@bdu.edu.et
+📧 **Email:** ahmed.abide@bdu.edu.et
 
 🎓 **Google Scholar:** https://scholar.google.com/citations?user=rbJMDa0AAAAJ&hl=en
 
