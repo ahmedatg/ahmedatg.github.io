@@ -125,6 +125,43 @@ Let's collaborate on research and innovation.
 
 ---
 
+# Featured Publications
+
+## 1. Multi-modal Empowerment for Human-Robot Collaboration Team
+
+**Journal:** *Journal of Manufacturing Systems* (2022)
+
+This work presents a multimodal framework that combines Hidden Semi-Markov Models (HSMM) and Augmented Reality (AR) to improve human–robot collaborative assembly.
+
+**Keywords:** Human–Robot Collaboration • Augmented Reality • HSMM • Smart Manufacturing
+
+➡️ View details on the **Publications** page.
+
+---
+
+## 2. Intelligent Task Allocation for Human–Robot Collaboration
+
+**Journal:** Robotics & Intelligent Manufacturing Research
+
+This research investigates adaptive task allocation between humans and robots using intelligent decision-making techniques for collaborative manufacturing.
+
+**Keywords:** Robotics • Industry 5.0 • Artificial Intelligence • Task Allocation
+
+➡️ View details on the **Publications** page.
+
+---
+
+## Research Themes
+
+- Human–Robot Collaboration
+- Industry 5.0
+- Smart Manufacturing
+- Augmented Reality
+- Human Factors Engineering
+- Artificial Intelligence
+- System Modeling and Simulation
+---
+
 # Latest Updates
 
 - Academic website launched.
