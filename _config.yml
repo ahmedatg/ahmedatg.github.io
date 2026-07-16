@@ -10,6 +10,9 @@ heading_anchors: true
 
 url: "https://ahmedatg.github.io"
 
+plugins:
+  - jekyll-seo-tag
+  
 footer_content: "© 2026 Dr. Ahmed Abide Tadesse | Bahir Dar University"
 
 aux_links:
