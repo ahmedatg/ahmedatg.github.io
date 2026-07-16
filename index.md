@@ -41,3 +41,18 @@ Research Interests
 </div>
 
 </div>
+---
+
+## Featured Research
+
+### Human–Robot Collaboration in Smart Manufacturing
+
+<div style="text-align:center; margin:30px 0;">
+
+<img src="/assets/gifs/hrc-assembly.gif"
+     alt="Human-Robot Collaboration Demonstration"
+     style="max-width:900px; width:100%; border-radius:12px; box-shadow:0 10px 25px rgba(0,0,0,.15);">
+
+</div>
+
+This demonstration illustrates collaborative assembly between a human operator and a collaborative robot in an Industry 5.0 manufacturing environment. My research focuses on intelligent collaboration using augmented reality, human intention recognition, and adaptive task allocation.
