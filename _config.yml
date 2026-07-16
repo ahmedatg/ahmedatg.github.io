@@ -4,24 +4,13 @@ description: "Assistant Professor | Industrial Engineering | Human-Robot Collabo
 remote_theme: just-the-docs/just-the-docs
 
 color_scheme: light
-#logo: "/assets/images/profile.jpg"
-
 nav_enabled: true
-
-aux_links:
-  "Google Scholar":
-    - "https://scholar.google.com"
-
-nav_enabled: true
-color_scheme: light
-
 search_enabled: true
-
 heading_anchors: true
 
-footer_content: "© 2026 Dr. Ahmed Abide Tadesse | Bahir Dar University"
-
 url: "https://ahmedatg.github.io"
+
+footer_content: "© 2026 Dr. Ahmed Abide Tadesse | Bahir Dar University"
 
 aux_links:
   Google Scholar: "https://scholar.google.com/citations?user=rbJMDa0AAAAJ&hl=en&oi=ao"
@@ -29,6 +18,7 @@ aux_links:
   ResearchGate: "https://www.researchgate.net/profile/Ahmed-Tadesse"
   LinkedIn: "https://www.linkedin.com/in/ahmed-abide"
   GitHub: "https://github.com/ahmedatg"
+
 header_pages:
   - about.md
   - research.md
@@ -40,8 +30,7 @@ header_pages:
   - news.md
   - cv.md
   - contact.md
+
 author:
   name: "Dr. Ahmed Abide Tadesse"
   email: "ahmed.abide@bdu.edu.et"
-
-  
