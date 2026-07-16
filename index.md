@@ -2,7 +2,9 @@ layout: home
 title: Home
 nav_order: 1
 ---
-
+<img src="/assets/images/profile/ahmed-profile.jpg" 
+     alt="Dr. Ahmed Abide Tadesse" 
+     width="250">
 <div style="display:flex; align-items:center; justify-content:space-between; gap:40px; flex-wrap:wrap;">
 
 <div style="flex:2; min-width:320px;">
