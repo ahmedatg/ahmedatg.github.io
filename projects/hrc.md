@@ -5,6 +5,28 @@ parent: Projects
 nav_order: 1
 ---
 
+<div style="text-align:center;padding:20px 0;">
+
+# Human–Robot Collaboration
+
+### Intelligent • Human-Centered • Industry 5.0
+
+<p>
+Developing adaptive collaborative manufacturing systems by integrating
+Artificial Intelligence, Augmented Reality, Robotics, and Human Factors Engineering.
+</p>
+
+</div>
+
+<div style="text-align:center;margin:40px 0;">
+
+<img src="/assets/gifs/hrc-assembly.gif"
+     style="width:100%;
+            max-width:1000px;
+            border-radius:15px;
+            box-shadow:0 10px 25px rgba(0,0,0,.25);">
+
+</div>
 # Human–Robot Collaboration
 
 ## Overview
