@@ -9,7 +9,7 @@ nav_order: 1
 
 # Human–Robot Collaboration
 
-### Intelligent • Human-Centered • Industry 5.0
+## Intelligent • Human-Centered • Industry 5.0
 
 <p>
 Developing adaptive collaborative manufacturing systems by integrating
@@ -40,7 +40,7 @@ Human–Robot Collaboration (HRC) is one of my primary research areas. My work i
 
 <td width="33%">
 
-### 🤖 Intelligent Collaboration
+## 🤖 Intelligent Collaboration
 
 Adaptive human-robot teamwork using AI.
 
@@ -56,7 +56,7 @@ Interactive assembly guidance with Microsoft HoloLens 2.
 
 <td width="33%">
 
-### 📊 Human Intention Recognition
+## 📊 Human Intention Recognition
 
 Hidden Semi-Markov Models for recognizing operator behavior.
 
