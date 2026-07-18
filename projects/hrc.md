@@ -20,7 +20,7 @@ Artificial Intelligence, Augmented Reality, Robotics, and Human Factors Engineer
 
 <div style="text-align:center;margin:40px 0;">
 
-<img src="/assets/gifs/hrc-assembly.gif"
+<img src="/assets/gifs/VIDEO_3D_animation.mp4"
      style="width:100%;
             max-width:1000px;
             border-radius:15px;
