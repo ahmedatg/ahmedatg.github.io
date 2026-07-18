@@ -2,7 +2,7 @@ layout: home
 title: Home
 nav_order: 1
 ---
-<img src="/assets/images/profile/HRC_Assembly_1.png" 
+<img src="/assets/gifs/HRC_Assembly_3.png" 
      alt="Dr. Ahmed Abide Tadesse" 
      width="250">
 <div style="display:flex; align-items:center; justify-content:space-between; gap:40px; flex-wrap:wrap;">
