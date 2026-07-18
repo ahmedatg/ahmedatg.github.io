@@ -34,7 +34,39 @@ Artificial Intelligence, Augmented Reality, Robotics, and Human Factors Engineer
 Human–Robot Collaboration (HRC) is one of my primary research areas. My work integrates robotics, artificial intelligence, augmented reality, and human factors engineering to develop adaptive collaborative manufacturing systems for Industry 5.0.
 
 ---
+<table>
 
+<tr>
+
+<td width="33%">
+
+### 🤖 Intelligent Collaboration
+
+Adaptive human-robot teamwork using AI.
+
+</td>
+
+<td width="33%">
+
+### 🥽 Augmented Reality
+
+Interactive assembly guidance with Microsoft HoloLens 2.
+
+</td>
+
+<td width="33%">
+
+### 📊 Human Intention Recognition
+
+Hidden Semi-Markov Models for recognizing operator behavior.
+
+</td>
+
+</tr>
+
+</table>
+
+---
 ## Research Demonstration
 
 <img src="/assets/gifs/HRC_Assembly_5.png"
