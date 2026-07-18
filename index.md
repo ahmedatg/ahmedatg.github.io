@@ -2,7 +2,7 @@ layout: home
 title: Home
 nav_order: 1
 ---
-<img src="/assets/gifs/HRC_Assembly_3.png" 
+<img src="/assets/gifs/HRC_Assembly_10.png" 
      alt="Dr. Ahmed Abide Tadesse" 
      width="250">
 <div style="display:flex; align-items:center; justify-content:space-between; gap:40px; flex-wrap:wrap;">
@@ -28,7 +28,7 @@ Research Interests
 - Human Factors Engineering
 - System Modeling & Simulation
 
-<a class="btn btn-primary" href="/assets/files/Ahmed_Abide_CV.pdf">Download CV</a>
+<a class="btn btn-primary" href="/assets/documents/Ahmed_Abide_CV.pdf">Download CV</a>
 
 <a class="btn" href="/contact">Contact Me</a>
 
