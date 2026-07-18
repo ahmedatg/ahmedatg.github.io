@@ -15,7 +15,7 @@ Human–Robot Collaboration (HRC) is one of my primary research areas. My work i
 
 ## Research Demonstration
 
-<img src="/assets/gifs/hrc-assembly.gif"
+<img src="/assets/gifs/HRC-Assembly_5.png"
      alt="Human-Robot Collaboration"
      style="width:100%;max-width:900px;border-radius:12px;box-shadow:0 5px 15px rgba(0,0,0,.2);">
 
